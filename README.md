@@ -1,4 +1,4 @@
-# 💫 About Me: i'm ali a frontend web developer from egypt
+# 💫 About Me: I'm ali a frontend web developer from egypt
  🤖 i'm currtenly working on making modern websites<br>  👯 I’m looking to collaborate on building websites<br>  🌱 I’m currently learning nextjs<br>  💬 Ask me about  HTML,CSS,javascript,python,Web Development, System Design<br>  📫 How to reach me alim16097side@gmail.com<br>  👨‍💻 All of my projects are available at https://ali-mohamed.netlify.app/<br>  ⚡ Fun fact I think i'm a good problem solver
 
 
